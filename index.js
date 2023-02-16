@@ -4,9 +4,9 @@ const fs = require("fs");
 
 //These lines of code import the Employee, Manager, Engineer, and Intern classes from the "lib" folder, as well as the generateHtml function from the "utils" folder, which are likely being used to build an HTML page for a software application or website.
 const Employee = require("./lib/Employee");
-const Manager = require("./lib/Manager");
-const Engineer = require("./lib/Engineer");
-const Intern = require("./lib/Intern");
+const EngineeringDirector = require("./lib/EngineeringDirector");
+const SeniorDeveloper = require("./lib/SeniorDeveloper");
+const JuniorEngineer = require("./lib/jJuniorEngineer");
 const generateHtml = require("./utils/generatehtml");
 
 //This line of code declares an empty array called "employees", which can be used to store and manipulate data related to employee records in a program or application.
