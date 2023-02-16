@@ -1,0 +1,23 @@
+{
+  "name": "tp-generator-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eddiebuck88/tp-generator-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eddiebuck88/tp-generator-db/issues"
+  },
+  "homepage": "https://github.com/Eddiebuck88/tp-generator-db#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
